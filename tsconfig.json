@@ -1,6 +1,6 @@
 {
 	"compilerOptions": {
-		"module": "NodeNext",
+		"module": "ESNext",
 		"target": "ESNext",
 		"removeComments": true,
 		"noImplicitAny": true,

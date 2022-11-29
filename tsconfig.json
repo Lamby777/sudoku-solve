@@ -1,0 +1,18 @@
+{
+	"compilerOptions": {
+		"module": "NodeNext",
+		"target": "ESNext",
+		"removeComments": true,
+		"noImplicitAny": true,
+		"noImplicitThis": true,
+		"strictNullChecks": true,
+		"strictBindCallApply": true,
+		"sourceMap": false,
+		"esModuleInterop": true,
+	},
+
+	"exclude": [
+		"node_modules",
+		"dist"
+	]
+}
